@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.69796044"
-     inkscape:cx="8159.4882"
-     inkscape:cy="371.79758"
+     inkscape:zoom="0.98706512"
+     inkscape:cx="8410.7926"
+     inkscape:cy="463.49526"
      inkscape:window-width="1440"
      inkscape:window-height="831"
      inkscape:window-x="0"
@@ -956,7 +956,7 @@
              id="tspan5-5"
              x="2283.761"
              y="349.18735"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:center;text-anchor:middle;fill:#ffffff">QA</tspan></text><text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:center;text-anchor:middle;fill:#ffffff">QAD</tspan></text><text
            xml:space="preserve"
            style="font-size:13.3333px;line-height:1.05;font-family:'Noto Color Emoji';-inkscape-font-specification:'Noto Color Emoji';fill:#ffffff;fill-opacity:0.748909"
            x="2282.7095"
@@ -971,7 +971,7 @@
              x="2282.7095"
              y="385.65268"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.05;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:0.748909"
-             id="tspan83">Dashboards</tspan></text></g><g
+             id="tspan1">Dashboards</tspan></text></g><g
          id="g48"><circle
            style="fill:url(#radialGradient15);fill-opacity:1;stroke:none;stroke-width:1.49994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
            id="circle1"
@@ -1433,7 +1433,7 @@
          x="7791.4121"
          y="457.8215"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';fill:#1a1a1a;fill-opacity:0.198298"
-         id="tspan221">QA</tspan><tspan
+         id="tspan221">QAD</tspan><tspan
          sodipodi:role="line"
          x="7791.4121"
          y="488.92197"
@@ -1562,7 +1562,7 @@
          x="8111.4116"
          y="457.8215"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';fill:#1a1a1a;fill-opacity:0.64877"
-         id="tspan314">QA</tspan><tspan
+         id="tspan314">QAD</tspan><tspan
          sodipodi:role="line"
          x="8111.4116"
          y="488.92197"
@@ -1689,7 +1689,7 @@
          x="8431.4121"
          y="457.8215"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';fill:#1a1a1a;fill-opacity:1"
-         id="tspan335">QA</tspan><tspan
+         id="tspan335">QAD</tspan><tspan
          sodipodi:role="line"
          x="8431.4121"
          y="488.92197"
@@ -1838,7 +1838,7 @@
          x="8751.4121"
          y="457.8215"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';fill:#f9f9f9;fill-opacity:1"
-         id="tspan358">QA</tspan><tspan
+         id="tspan358">QAD</tspan><tspan
          sodipodi:role="line"
          x="8751.4121"
          y="488.92197"
